@@ -30,5 +30,4 @@ This project explores open-source UK road accident data to identify high-risk re
 - Highlighted key risk factors contributing to accidents such as poor weather, speeding, and night-time driving
 - Suggested possible interventions: better lighting in high-risk areas, public awareness campaigns for winter driving
 
-## 📫 Contact
-Feel free to connect with me: rahul.mehra@email.com
+
